@@ -16,8 +16,7 @@ Atualmente, estou aprendendo e desenvolvendo projetos com foco em:
 ---
 
 ## 🌍 Onde me encontrar
-- GitHub: [github.com/marcofelipi](https://github.com/marcofelipi)  
-- LinkedIn: [linkedin.com/in/marcofelipi](https://www.linkedin.com/in/marcofelipi)  
+- GitHub: [github.com/marcofelipi](https://github.com/marcofelipi) 
 
 ---
 
